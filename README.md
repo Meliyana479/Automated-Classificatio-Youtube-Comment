@@ -1,4 +1,4 @@
-# Automated-Classificatio-Youtube-Comment
+# Automated-Classification-Youtube-Comment
 Automated Classificatio Youtube Comment. This is my final project
 
 1. Compile with app.py 
